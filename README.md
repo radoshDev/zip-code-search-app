@@ -12,4 +12,4 @@
 </ul>
 
 <h2>Demo</h2>
-<p>You can see a live demo of this project at <a href="https://www.google.com" target="_new">housing site</a>.</p>
+<p>You can see a live demo of this project at <a href="https://zip-code-search-app.vercel.app/" target="_new">housing site</a>.</p>
